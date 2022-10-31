@@ -10,9 +10,9 @@ Click [here](https://www.youtube.com/watch?v=UXWckTAw3JY) to get started
 
 |Day|Summary|
 |-|-|
-|1|Learned GitHub Wiki Formatting[<sup>1</sup>] and Introduced to the Core 1 Course[2]|
+|1|Learned GitHub Wiki Formatting[<sup>1</sup>] and Introduced to the Core 1 Course[<sup>2</sup>]|
 
 
 [<sup>1</sup>]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#paragraphs
-[2]: https://partners.comptia.org/docs/default-source/resources/comptia-a-220-1101-exam-objectives-(3-0)
+[<sup>2</sup>]: https://partners.comptia.org/docs/default-source/resources/comptia-a-220-1101-exam-objectives-(3-0)
 [3]: https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC
