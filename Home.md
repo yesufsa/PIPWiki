@@ -10,5 +10,4 @@ Click [here](https://www.youtube.com/watch?v=UXWckTAw3JY) to get started
 
 |Day|Summary|
 |-|-|
-|1|Learned GitHub Wiki Formatting and Introduced to the Core 1 Course
-[Core 1 Learning Objectives](https://partners.comptia.org/docs/default-source/resources/comptia-a-220-1101-exam-objectives-(3-0))|
+|1|Learned GitHub Wiki Formatting and Introduced to the Core 1 Course [Core 1 Learning Objectives](https://partners.comptia.org/docs/default-source/resources/comptia-a-220-1101-exam-objectives-(3-0))|
