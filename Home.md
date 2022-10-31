@@ -10,7 +10,7 @@ Click [here](https://www.youtube.com/watch?v=UXWckTAw3JY) to get started
 
 |Day|Summary|
 |-|-|
-|1|Learned GitHub Wiki Formatting[<sub>1</sub>] and Introduced to the Core 1 Course[2]|
+|1|Learned GitHub Wiki Formatting[<sup>1</sup>] and Introduced to the Core 1 Course[2]|
 
 
 [<sup>1</sup>]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#paragraphs
