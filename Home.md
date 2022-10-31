@@ -6,6 +6,6 @@ Click [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to get started
 |-|-|-|
 |1|Insert Link|Insert Links|
 
-|Day|Summary|Demonstrated Learning|
+|Day|Summary|
 |-|-|
 |1||
