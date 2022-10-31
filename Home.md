@@ -10,4 +10,4 @@ Click [here](https://www.youtube.com/watch?v=UXWckTAw3JY) to get started
 
 |Day|Summary|
 |-|-|
-|1||
+|1|Learned GitHub Wiki Formatting and Introduced to the Core 1 Course|
