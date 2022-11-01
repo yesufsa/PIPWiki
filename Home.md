@@ -13,7 +13,7 @@
 |1|Learned GitHub Wiki Formatting[<sup>1</sup>] and Introduced to the Core 1 Course[<sup>2</sup>] and Learning Objectives[<sup>3</sup>]|
 
 ![This is an image](
-![Screenshot 2022-11-01 11 10 18 AM](https://user-images.githubusercontent.com/112722697/199281611-ef3209cb-16ab-4d90-873b-bf7f69ab2775.png))
+![Screenshot 2022-11-01 11 10 18 AM](https://user-images.githubusercontent.com/112722697/199281611-ef3209cb-16ab-4d90-873b-bf7f69ab2775.png)
 
 [<sup>1</sup>]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#paragraphs
 [<sup>3</sup>]: https://partners.comptia.org/docs/default-source/resources/comptia-a-220-1101-exam-objectives-(3-0)
