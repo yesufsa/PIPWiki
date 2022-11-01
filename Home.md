@@ -18,32 +18,7 @@
 
 <hr>
 <hr>
-<hr>
-
-<style>
-hr {
-    border: none;
-    border-top: 20px double #333;
-    color: #333;
-    overflow: visible;
-    text-align: center;
-    height: 5px;
-}
-</style>
-
-
-<head>
-<style>
-h1   {color: blue;}
-p    {color: red;}
-</style>
-</head>
-<body>
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
+<hr>### ## # ``
 
 [<sup>1</sup>]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#paragraphs
 [<sup>3</sup>]: https://partners.comptia.org/docs/default-source/resources/comptia-a-220-1101-exam-objectives-(3-0)
