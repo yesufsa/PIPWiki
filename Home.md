@@ -1,8 +1,8 @@
 # Welcome to Mick's Personal Interest Project!
 
-## Click [here](https://www.youtube.com/watch?v=UXWckTAw3JY) to get started
+## Click *[here](https://www.youtube.com/watch?v=UXWckTAw3JY) to get started*
 
-#### _[Contract](https://docs.google.com/document/d/1xHCsvFelPazsIEW5-Ja0uVaChoKwazkBkOFORYxoWbs/edit?usp=sharing)_
+#### ***[Contract](https://docs.google.com/document/d/1xHCsvFelPazsIEW5-Ja0uVaChoKwazkBkOFORYxoWbs/edit?usp=sharing)***
 
 |Week|Demonstrated Learning|Practice Exams|
 |-|-|-|
