@@ -16,7 +16,7 @@
 |-|-|
 |1|Learned GitHub Wiki Formatting[<sup>1</sup>] and Introduced to the Core 1 Course[<sup>2</sup>] and Learning Objectives[<sup>3</sup>]|
 
-<hr -/>
+<hr */>
 <hr -/>
 <hr -/>
 
