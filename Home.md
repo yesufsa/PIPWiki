@@ -8,6 +8,8 @@
   <img alt="Shows Good P in light mode and Evil P in dark mode." src="https://user-images.githubusercontent.com/112722697/199285242-12640e99-4fe8-4686-b011-cf814884c28a.jpeg">
 </picture>
 <p> </p>
+<p> </p>
+<p> </p>
 
 |Week|Demonstrated Learning|Practice Exams|
 |-|-|-|
