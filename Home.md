@@ -2,7 +2,7 @@
 
 ## Click [here](https://www.youtube.com/watch?v=UXWckTAw3JY) to get started
 
-#### [Contract](https://docs.google.com/document/d/1xHCsvFelPazsIEW5-Ja0uVaChoKwazkBkOFORYxoWbs/edit?usp=sharing)
+#### _[Contract](https://docs.google.com/document/d/1xHCsvFelPazsIEW5-Ja0uVaChoKwazkBkOFORYxoWbs/edit?usp=sharing)_
 
 |Week|Demonstrated Learning|Practice Exams|
 |-|-|-|
