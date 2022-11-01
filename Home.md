@@ -2,7 +2,8 @@
 
 ## Click [here](https://www.youtube.com/watch?v=UXWckTAw3JY) to get started
 
-![Evil P](https://user-images.githubusercontent.com/112722697/199281611-ef3209cb-16ab-4d90-873b-bf7f69ab2775.png) #### ***[Contract](https://docs.google.com/document/d/1xHCsvFelPazsIEW5-Ja0uVaChoKwazkBkOFORYxoWbs/edit?usp=sharing)***
+![Evil P](https://user-images.githubusercontent.com/112722697/199281611-ef3209cb-16ab-4d90-873b-bf7f69ab2775.png) 
+#### ***[Contract](https://docs.google.com/document/d/1xHCsvFelPazsIEW5-Ja0uVaChoKwazkBkOFORYxoWbs/edit?usp=sharing)***
 
 |Week|Demonstrated Learning|Practice Exams|
 |-|-|-|
