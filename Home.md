@@ -19,7 +19,7 @@
 <hr>
 <hr>
 <hr>
-
+<style>
 hr {
     border: none;
     border-top: 3px double #333;
@@ -36,7 +36,7 @@ hr:after {
     position: relative;
     top: -13px;
 }
-
+</style>
 [<sup>1</sup>]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#paragraphs
 [<sup>3</sup>]: https://partners.comptia.org/docs/default-source/resources/comptia-a-220-1101-exam-objectives-(3-0)
 [<sup>2</sup>]: https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC
