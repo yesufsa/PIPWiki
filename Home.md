@@ -4,7 +4,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/112722697/199281611-ef3209cb-16ab-4d90-873b-bf7f69ab2775.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/112722697/199285242-12640e99-4fe8-4686-b011-cf814884c28a.jpeg">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/112722697/199556015-e50a0b8a-990c-4861-8722-5ab6ae109727.png">
   <img alt="Shows Good P in light mode and Evil P in dark mode." src="https://user-images.githubusercontent.com/112722697/199285242-12640e99-4fe8-4686-b011-cf814884c28a.jpeg">
 </picture>
 
