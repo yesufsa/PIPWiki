@@ -8,9 +8,9 @@
   <img alt="Shows Good P in light mode and Evil P in dark mode." src="https://user-images.githubusercontent.com/112722697/199285242-12640e99-4fe8-4686-b011-cf814884c28a.jpeg">
 </picture>
 
-|Week|Demonstrated Learning|Practice Exams|
-|-|-|-|
-|1|[Week 1 Notes](https://docs.google.com/document/d/1L11h8u_xcf6mVdoJ-IMXnrVw_jM1tJuG2Z1UKWHqFi8/edit?usp=sharing)|[Practice Tests](https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC)|
+|Week|Demonstrated Learning|Practice Exams|Hagrid|
+|-|-|-|-|
+|1|[Week 1 Notes](https://docs.google.com/document/d/1L11h8u_xcf6mVdoJ-IMXnrVw_jM1tJuG2Z1UKWHqFi8/edit?usp=sharing)|[Practice Tests](https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC)|Dead|
 
 |Day|Summary|
 |-|-|
