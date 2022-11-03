@@ -15,9 +15,9 @@
 |Day|Summary|
 |-|-|
 |1|Learned GitHub Wiki Formatting[<sup>1</sup>] and Introduced to the Core 1 Course[<sup>2</sup>] and Learning Objectives[<sup>3</sup>]|
-|2|Introduction to Laptops and their Components|
+|2|Introduction to Laptop Hardware|
 |3|Helped Bozo with GrammarSolver|
-|4|Laptops Continued|
+|4|Laptop Hardware Continued|
 
 <hr>
 <hr>
