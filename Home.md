@@ -20,6 +20,7 @@
 |3|Helped Bozo with GrammarSolver|
 |4|Laptop Hardware Continued|
 |5|End of Laptop Hardware and Start of Laptop Displays|
+|6|Connecting Mobile Devices, Reflection, and GitHub Troubleshooting|
 
 
 <hr>
