@@ -11,7 +11,7 @@
 |Week|Demonstrated Learning|Practice Exams|
 |-|-|-|
 |1|[Week 1 Notes](https://docs.google.com/document/d/1L11h8u_xcf6mVdoJ-IMXnrVw_jM1tJuG2Z1UKWHqFi8/edit?usp=sharing)|[Practice Tests](https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC)|
-|2|[Week 2 Notes](https://docs.google.com/document/d/1XxlczrarnW3fLXyUzkZLR5tYuBGLlifMPj6SPQGY6eM/edit?usp=sharing)|[Practice Tests](https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC)|
+|2|[Week 2 Notes](https://docs.google.com/document/d/1XxlczrarnW3fLXyUzkZLR5tYuBGLlifMPj6SPQGY6eM/edit?usp=sharing)|[Practice Lab](https://labsimapp.testout.com/v6_0_521/index.html/productviewerdemo/242/1.2.7?labsimdemo=MjQy-MS4yLjc%3D&__hstc=185476278.1020cb5d32e3ced62f0510115954c021.1667932796430.1667932796430.1667932796430.1&__hssc=185476278.5.1667932796430&__hsfp=3184881229)|
 
 |Day|Summary|
 |-|-|
