@@ -1,6 +1,8 @@
 # Welcome to Mick's Personal Interest Project!
 
 ## Click [here](https://www.youtube.com/watch?v=UXWckTAw3JY) to get started
+[![Image](https://user-images.githubusercontent.com/112722697/201743242-359b64f1-f774-4567-b0a3-e2469deb6684.png)](https://www.youtube.com/watch?v=UXWckTAw3JY)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/112722697/199281611-ef3209cb-16ab-4d90-873b-bf7f69ab2775.png">
