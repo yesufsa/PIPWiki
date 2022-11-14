@@ -29,6 +29,7 @@ Presentation: [PIP Presentation](https://docs.google.com/presentation/d/1BYW3g8E
 |8|Introduction to Motherboards, UPS Lab|
 |9|KVM Switches and Lab and Firmware Update and BIOS Lab|
 |10|Power Plan and CPU Installation Labs|
+|11|Created and Finished Presentation, Finished CPU Research and Lab|
 
 
 <hr>
