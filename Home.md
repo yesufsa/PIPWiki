@@ -30,6 +30,7 @@
 |10|Power Plan and CPU Installation Labs|
 |11|Created and Finished Presentation, Finished CPU Research and Lab|
 |12|BIOS Settings|
+|13|Configuring a Wireless Profile Lab / Network Adapter Lab|
 
 
 <hr>
