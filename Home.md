@@ -29,6 +29,7 @@
 |9|KVM Switches and Lab and Firmware Update and BIOS Lab|
 |10|Power Plan and CPU Installation Labs|
 |11|Created and Finished Presentation, Finished CPU Research and Lab|
+|12|BIOS Settings|
 
 
 <hr>
